@@ -1,0 +1,39 @@
+@import "../abstract/variables";
+
+.metricas-resultados {
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	gap: 32px;
+	margin: 0 80px 96px 80px;
+	padding: 0 32px;
+
+	div {
+		width: 280px;
+		height: 192px;
+
+		p {
+			font-weight: 400;
+			font-size: 1em;
+			line-height: 24px;
+			color: $gray500-color;
+
+			span {
+				display: block;
+				font-weight: 600;
+				font-size: 3.75em;
+				line-height: 72px;
+				color: $destaqe-color;
+			}
+
+			strong {
+				display: block;
+				margin: 12px 0 8px 0;
+				font-weight: 500;
+				font-size: 1.125em;
+				line-height: 28px;
+				color: $gray900-color;
+			}
+		}
+	}
+}
