@@ -4,13 +4,13 @@ Projeto de uma landing page desenvolvido para uma empresa de TI que deseja uma p
 
 ## TO-DO
 
- - [ ] Navbar
- - [ ] Header
- - [ ] Seção méticas e resultados
- - [ ] Seção estamos procurando 
- - [ ] Seção de vaga
- - [ ] Seção depoimentos
- - [ ] Footer
+- [x] Navbar
+- [ ] Header
+- [ ] Seção méticas e resultados
+- [ ] Seção estamos procurando
+- [ ] Seção de vaga
+- [ ] Seção depoimentos
+- [ ] Footer
 
 ## Pré Requisitos
 
