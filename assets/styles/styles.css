@@ -107,4 +107,42 @@ header .login .btn-destacado a {
   font-size: 1.125em;
   line-height: 28px;
   color: #101828;
+}
+
+.talentos {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  border-bottom: 64px;
+}
+.talentos h2 {
+  width: 125px;
+  color: #8e2424;
+  font-weight: 500;
+  font-size: 0.875em;
+  line-height: 20px;
+  text-align: center;
+  padding: 4px 12px;
+  border-radius: 16px;
+  background-color: rgba(142, 36, 36, 0.0509803922);
+  margin-bottom: 16px;
+}
+.talentos span {
+  font-weight: 600;
+  font-size: 2.25em;
+  line-height: 44px;
+  text-align: center;
+  color: #101828;
+  margin-bottom: 20px;
+}
+.talentos p {
+  font-weight: 400;
+  font-size: 1.25em;
+  line-height: 30px;
+  text-align: center;
+  color: #667085;
+  margin-bottom: 64px;
+}
+.talentos img {
+  margin: 0 auto;
 }/*# sourceMappingURL=styles.css.map */

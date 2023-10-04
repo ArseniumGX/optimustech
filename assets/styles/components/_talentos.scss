@@ -1,0 +1,43 @@
+@import "../abstract/variables";
+
+.talentos {
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: center;
+	border-bottom: 64px;
+
+	h2 {
+		width: 125px;
+		color: $destaqe-color;
+		font-weight: 500;
+		font-size: 0.875em;
+		line-height: 20px;
+		text-align: center;
+		padding: 4px 12px;
+		border-radius: 16px;
+		background-color: #8e24240d;
+		margin-bottom: 16px;
+	}
+
+	span {
+		font-weight: 600;
+		font-size: 2.25em;
+		line-height: 44px;
+		text-align: center;
+		color: $gray900-color;
+		margin-bottom: 20px;
+	}
+
+	p {
+		font-weight: 400;
+		font-size: 1.25em;
+		line-height: 30px;
+		text-align: center;
+		color: $gray500-color;
+		margin-bottom: 64px;
+	}
+
+	img {
+		margin: 0 auto;
+	}
+}
