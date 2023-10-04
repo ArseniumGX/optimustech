@@ -1,0 +1,11 @@
+@import "../abstract/variables";
+
+@mixin container($aY) {
+	margin: $aY 80px;
+}
+
+@mixin btn($aX, $aY) {
+	border-radius: 8px;
+	padding: $aX $aY;
+	background-color: $destaqe-color;
+}
