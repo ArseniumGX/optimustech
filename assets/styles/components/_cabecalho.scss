@@ -1,0 +1,31 @@
+@import "../abstract/variables";
+@import "../abstract/mixins";
+
+.cabecalho {
+	margin: 90px auto;
+	text-align: center;
+
+	h2 {
+		font-weight: 600;
+		color: $destaqe-color;
+		line-height: 24px;
+		font-size: 1em;
+	}
+
+	h3 {
+		margin: 24px 0;
+		font-weight: 600;
+		font-size: 3em;
+		line-height: 60px;
+		color: $gray900-color;
+	}
+
+	p {
+		margin: 0 auto;
+		max-width: 791px;
+		font-weight: 400;
+		font-size: 1.25em;
+		line-height: 30px;
+		color: $gray500-color;
+	}
+}
