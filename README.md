@@ -5,7 +5,7 @@ Projeto de uma landing page desenvolvido para uma empresa de TI que deseja uma p
 ## TO-DO
 
 - [x] Navbar
-- [ ] Header
+- [ ] Seção cabecalho
 - [ ] Seção méticas e resultados
 - [ ] Seção estamos procurando
 - [ ] Seção de vaga
