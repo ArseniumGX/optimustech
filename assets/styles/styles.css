@@ -73,4 +73,38 @@ header .login .btn-destacado a {
   font-size: 1.25em;
   line-height: 30px;
   color: #667085;
+}
+
+.metricas-resultados {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  gap: 32px;
+  margin: 0 80px 96px 80px;
+  padding: 0 32px;
+}
+.metricas-resultados div {
+  width: 280px;
+  height: 192px;
+}
+.metricas-resultados div p {
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 24px;
+  color: #667085;
+}
+.metricas-resultados div p span {
+  display: block;
+  font-weight: 600;
+  font-size: 3.75em;
+  line-height: 72px;
+  color: #8e2424;
+}
+.metricas-resultados div p strong {
+  display: block;
+  margin: 12px 0 8px 0;
+  font-weight: 500;
+  font-size: 1.125em;
+  line-height: 28px;
+  color: #101828;
 }/*# sourceMappingURL=styles.css.map */
