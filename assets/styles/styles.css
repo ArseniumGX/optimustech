@@ -46,4 +46,30 @@ header .login .btn-destacado {
 }
 header .login .btn-destacado a {
   color: #ffffff;
+}
+
+.cabecalho {
+  margin: 90px auto;
+  text-align: center;
+}
+.cabecalho h2 {
+  font-weight: 600;
+  color: #8e2424;
+  line-height: 24px;
+  font-size: 1em;
+}
+.cabecalho h3 {
+  margin: 24px 0;
+  font-weight: 600;
+  font-size: 3em;
+  line-height: 60px;
+  color: #101828;
+}
+.cabecalho p {
+  margin: 0 auto;
+  max-width: 791px;
+  font-weight: 400;
+  font-size: 1.25em;
+  line-height: 30px;
+  color: #667085;
 }/*# sourceMappingURL=styles.css.map */
