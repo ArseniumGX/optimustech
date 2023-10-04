@@ -8,7 +8,7 @@ Projeto de uma landing page desenvolvido para uma empresa de TI que deseja uma p
 - [x] Seção cabecalho
 - [x] Seção méticas e resultados
 - [x] Seção estamos procurando
-- [ ] Seção de vaga
+- [x] Seção de vaga
 - [ ] Seção depoimentos
 - [ ] Footer
 
