@@ -7,7 +7,7 @@ Projeto de uma landing page desenvolvido para uma empresa de TI que deseja uma p
 - [x] Navbar
 - [x] Seção cabecalho
 - [x] Seção méticas e resultados
-- [ ] Seção estamos procurando
+- [x] Seção estamos procurando
 - [ ] Seção de vaga
 - [ ] Seção depoimentos
 - [ ] Footer
